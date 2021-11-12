@@ -1,0 +1,1 @@
+# drools-agenda-group-vs-activation-group
